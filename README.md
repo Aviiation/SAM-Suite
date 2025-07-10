@@ -23,7 +23,7 @@ Stats Tool: Using columns in an Excel file, identifies outliers using ROUT (Q=1%
 How to Cite
 If you use these tools in your research, please cite them as:
 
---Coming soon--
+Walsh, SP. (2025). SAM - Spatial Analysis from Masks (Version 1.0) [Computer software]. https://www.google.com/search?q=https://doi.org/10.5281/zenodo.15851666
 
 Bug Reports & Feature Requests
 If you encounter a bug or have an idea for a new feature, please open a new issue on the Issues Page.
